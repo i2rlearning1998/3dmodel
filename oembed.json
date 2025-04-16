@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "type": "rich",
+  "provider_name": "i2rLearning",
+  "provider_url": "https://i2rlearning.com",
+  "title": "My App",
+  "html": "<iframe src='https://i2rlearning.com/wp-content/uploads/verge3d/20/my_awesome_app6.html' width='600' sandbox='allow-scripts allow-same-origin' height='600' style='border:none;' allowfullscreen></iframe>",
+  "width": 800,
+  "height": 600
+}
