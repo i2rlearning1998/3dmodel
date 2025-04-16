@@ -3,7 +3,7 @@ if (isset($_GET['url'])) {
     $url = $_GET['url'];
     $title = 'My 3D Model';
     $provider_name = 'My Website';
-    $provider_url = 'https://i2rlearning.com';
+    $provider_url = 'https://i2rlearning1998.github.io/';
     $html = "<iframe src='" . $url . "' width='800' height='600' frameborder='0' allow='autoplay; fullscreen' sandbox='allow-scripts allow-same-origin' allowfullscreen></iframe>";
     $response = array(
         'type' => 'rich',
