@@ -1,10 +1,8 @@
 {
   "version": "1.0",
   "type": "rich",
-  "provider_name": "i2rLearning",
   "provider_url": "https://i2rlearning1998.github.io",
-  "title": "My App",
-  "html": "<iframe src='https://i2rlearning1998.github.io/3dmodel/' width='600' sandbox='allow-scripts allow-same-origin' height='600' style='border:none;' allowfullscreen></iframe>",
+  "html": "<iframe src='https://i2rlearning1998.github.io/3dmodel/index.html' width='600' sandbox='allow-scripts allow-same-origin' height='600' style='border:none;' allowfullscreen></iframe>",
   "width": 800,
   "height": 600
 }
